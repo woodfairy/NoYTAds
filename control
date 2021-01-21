@@ -1,0 +1,9 @@
+Package: 0xcc.eoodfairy.noytads
+Name: NoYTAds
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Block those YT ads ;)
+Maintainer: woodfairy
+Author: woodfairy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
